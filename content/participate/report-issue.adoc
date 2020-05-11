@@ -196,4 +196,8 @@ resolve it. (If you only found a workaround, don't resolve it yet.)
 * If newer Jenkins versions no longer are affected by the issue, or
 implemented the feature you requested, make sure to mark your issue as
 Fixed. This can happen e.g. if there were other reports on the issue, or
+<<<<<<< HEAD
 developers noticed it on their own.
+=======
+developers noticed it on their own.
+>>>>>>> upstream/master

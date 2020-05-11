@@ -20,3 +20,7 @@ See the jira:WEBSITE-662[] EPIC for tasks related to this page, contributions ar
 ==== How To Track an issue
 
 - link:/participate/track-issue[Track an issue]
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/master
