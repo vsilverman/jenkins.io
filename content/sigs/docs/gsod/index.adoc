@@ -10,7 +10,7 @@ tags:
 opengraph:
   image: /images/gsod/gsod_opengraph.png
 links:
-  meetings: "/projects/gsoc/#office-hours"
+  meetings: "/sigs/docs/#meetings"
 ---
 
 image:/images/gsod/gsod.png[Google Season of Docs, role=center, float=right]
